@@ -1,4 +1,8 @@
 # Google Translate API
+Modify [iamtraction/google-translate](https://github.com/iamtraction/google-translate) to support `option.baseUrl` configuration.
+
+***
+
 A [Node.JS](https://nodejs.org) library to consume Google Translate for free.
 
 [![GitHub release](https://img.shields.io/github/release/iamtraction/google-translate.svg?style=flat)](https://github.com/iamtraction/google-translate/releases)
