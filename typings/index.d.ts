@@ -5,6 +5,7 @@ interface TranslateOption {
     to?: string;
     /** If `true`, it will return the raw output that was received from Google Translate. */
     raw?: boolean;
+    baseUrl?: string;
 }
 
 interface TranslateResponse {
